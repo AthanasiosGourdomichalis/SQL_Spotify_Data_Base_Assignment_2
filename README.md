@@ -1,7 +1,7 @@
 # SQL_Spotify_Data_Base_Assignment_2
  1. Objective
      
- In this assignment, we will explore Spotify data by writing and 
+ In this repo, we will explore Spotify data by writing and 
 executing SQL queries.
 -----------------------------------------------------------------------------------------------------------------
 2. Prerequisites
